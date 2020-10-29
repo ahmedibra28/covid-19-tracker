@@ -26,6 +26,11 @@ function App() {
       <CountryPicker handleCountryChange={handleCountryChange} />
 
       <Chart country={country} />
+
+      <div className='card-footer my-5 text-muted text-center'>
+        Developer Contact:{" "}
+        <a href='mailto:ahmaat19@gmail.com'>ahmaat19@gmail.com</a>
+      </div>
     </div>
   );
 }
