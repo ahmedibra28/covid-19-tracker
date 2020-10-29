@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import logo from "./logo.png";
 import Cards from "./components/Cards";
 import Chart from "./components/Chart";
 import CountryPicker from "./components/CountryPicker";
@@ -14,7 +15,7 @@ function App() {
     <div className='container my-4'>
       <div className='text-center'>
         <img
-          src='https://standuptocancer.org/wp-content/uploads/2020/03/5e78be2f4b769b218fe94e07_logo.png'
+          src={logo}
           style={{ width: "100px", height: "auto", paddingBottom: "20px" }}
           alt=''
         />{" "}
