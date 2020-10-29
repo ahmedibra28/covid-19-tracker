@@ -24,7 +24,7 @@ function App() {
 
       <CountryPicker handleCountryChange={handleCountryChange} />
 
-      <Chart />
+      <Chart country={country} />
     </div>
   );
 }
