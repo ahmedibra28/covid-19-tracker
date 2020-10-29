@@ -1,6 +1,8 @@
 # COVID-19 Tracker
 
-Click here to the [Live Site](http://localhost:3000)
+[![COVID-19 Dashboard Logo](./src/Dashboard.png)](https://frozen-reef-56742.herokuapp.com/)
+
+Click here to the [Live Site](https://frozen-reef-56742.herokuapp.com/)
 
 ## Available Scripts
 
