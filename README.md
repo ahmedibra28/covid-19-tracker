@@ -1,8 +1,8 @@
 # COVID-19 Tracker
 
-[![COVID-19 Dashboard Logo](./src/Dashboard.png)](https://ahmaat19covid19.herokuapp.com/)
+[![COVID-19 Dashboard Logo](./src/Dashboard.png)](http://ahmaat19.github.io/covid-19-tracker)
 
-Click here to the [Live Site](https://ahmaat19covid19.herokuapp.com/)
+Click here to the [Live Site](http://ahmaat19.github.io/covid-19-tracker)
 
 ## Available Scripts
 
